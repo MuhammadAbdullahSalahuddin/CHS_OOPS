@@ -1,0 +1,17 @@
+# Ignore IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Ignore build output
+out/
+
+# Ignore video files and logs
+*.mp4
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled class files
+*.class
